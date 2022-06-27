@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Bigstar888</h1>
 
-<!--
-**bigstar888/bigstar888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  Hello i'm Bigstar888, i have about 6 years working with programming. I choose work as developer because i love to solve problems. That's what i like to do. I had work with a lot of technologies and systems, like Nodejs, Python, Typescript, Javascript, React, Angular, Vuejs, Git, Ionic and others. 
+  If want to talk with me please feel free to send me a text message!
+</p>
+
+<div>
+  <img align="center" width="416px" src="https://github-readme-stats.vercel.app/api?username=bigstar888&show_icons=true&count_private=true" alt="bigstar888" />
+  
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigstar888&langs_count=6&theme=dracula&layout=compact&card_width=360" alt="bigstar888" />
+</div>

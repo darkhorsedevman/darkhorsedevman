@@ -4,7 +4,7 @@
 
 
 
-  Hello i'm Bigstar888, i have about 6 years working with programming. I choose work as developer because i love to solve problems. That's what i like to do. I had work with a lot of technologies and systems, like Nodejs, Python, Typescript, Javascript, React, Angular, Vuejs, Git, Ionic and others. 
+  Hello i'm Bigstar888, i have about 8+ years working with programming. I choose work as developer because i love to solve problems. That's what i like to do. I had work with a lot of technologies and systems, like Nodejs, Python, PHP, Typescript, Javascript, React, Angular, Vuejs, Django, Golang, Ruby on Rails, Flask, Blockchain, Smart Contract, Solidity, NFT, Git, Ionic and others. 
   If want to talk with me please feel free to send me a text message!
 </p>
 
